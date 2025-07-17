@@ -1,0 +1,98 @@
+.open-sans-normal{
+     font-family: sans-serif;
+     font-optical-sizing:auto ;
+     font-size: normal;
+     font-variation-settings: "wdth"100;
+     background-image:url
+   
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px; 200px;
+}
+.nav-title{
+font-weight: 800;
+font-size: 45px;
+color: #4E47FF; 
+}
+.btn-primary{
+
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: white;
+    padding: 10px; 20px;
+    border-radius: 7px;
+    font-size: 20px;
+
+}
+.top-section{
+
+   display: flex;
+   
+}
+.main-button{
+    
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: white;
+    padding: 10px; 20px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.banner-title{
+font-weight: bold;
+font-size: 85px;
+
+    font-family:Raleway 
+}
+.container{
+    text-align: center;
+    justify-items: center;
+            
+
+}
+.action{
+    font-family:Raleway 
+    font-weight: bold;
+    background -image:none;
+
+}
+main{
+
+    max-width: 1140px;
+    margin: 0px,auto;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 60px;
+}
+.launch-btn{
+background-color: #4E47FF;
+    font-weight: bold;
+    color: white;
+    padding: 10px; 20px;
+    border-radius: 7px;
+    font-size: 20px;
+
+
+}
+section img{
+    display: flex;
+    justify-items: center;
+}
+.button{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     font-variation-settings: "wdth"100;
+     vertical-align: right;
+
+
+}
+
+
+
+}
